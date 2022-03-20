@@ -17,7 +17,7 @@ Você pode abrir o website através do link abaixo.
 ## Autor
 ---
 
-<a href="https://www.linkedin.com/in/techjuliana">
+<a href="https://www.linkedin.com/in/ronaldo-nascimento-1b50548a/">
  <!-- <img style="border-radius: 50%;" src="" width="100px;" alt=""/> -->
  <!-- <br /> -->
  <sub><b>Ronaldo Nascimento</b></sub></a>  <a href="https://www.linkedin.com/in/ronaldo-nascimento-1b50548a/" title="LinkedIn">🚀</a>
